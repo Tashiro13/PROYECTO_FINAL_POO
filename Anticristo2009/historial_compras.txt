@@ -1,0 +1,87 @@
+----
+Nombre: Pan Integral, Precio: 2.5
+Nombre: Pastel de Chocolate, Precio: 20.0
+Total: 22.5
+----
+Total: 0.0
+----
+Total: 0.0
+----
+Total: 0.0
+----
+Total: 0.0
+----
+Total: 0.0
+----
+Total: 0.0
+----
+Nombre: Empanada, Precio: 2.5
+Nombre: Pastel , Precio: 20.0
+Total: 22.5
+Alexis
+Nombre: Pan , Precio: 2.5
+Nombre: Pan , Precio: 2.5
+Nombre: Pan , Precio: 2.5
+Total: 7.5
+Alexis
+Nombre: Pan , Precio: 2.5
+Nombre: Pan , Precio: 2.5
+Nombre: Pan , Precio: 2.5
+Nombre: Pan , Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Total: 12.5
+Juan
+Nombre: Pan , Precio: 2.5
+Nombre: Pan , Precio: 2.5
+Nombre: Pan , Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Nombre: Dona, Precio: 2.5
+Total: 22.5
+----
+Nombre: Empanada, Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Nombre: Empanada, Precio: 2.5
+Total: 15.0
+----
+Nombre: Empanada, Precio: 12.0
+Nombre: Empanada, Precio: 12.0
+Nombre: Empanada, Precio: 12.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pan , Precio: 5.0
+Total: 81.0
+----
+Nombre: Pan , Precio: 5.0
+Nombre: Pan , Precio: 5.0
+Nombre: Pan , Precio: 5.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Total: 115.0
+----
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Empanada, Precio: 12.0
+Nombre: Pan , Precio: 5.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pan , Precio: 5.0
+Total: 142.0
+Juan----
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Nombre: Pastel , Precio: 20.0
+Total: 100.0
