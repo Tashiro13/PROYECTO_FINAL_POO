@@ -1,4 +1,0 @@
-----
-Nombre: Pan Integral, Precio: 2.5
-Nombre: Pastel de Chocolate, Precio: 20.0
-Total: 22.5
